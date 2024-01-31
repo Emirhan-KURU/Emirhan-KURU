@@ -7,7 +7,7 @@
 
 <h3 align="center">A candidate Jr. Embedded software engineer</h3>
 
-- 🔭 I’m currently working on **Microros**
+- 🔭 I’m currently working on **Automated guided vehicle**
 
 - 🌱 I’m currently learning **Microros,C++,C,STM32,Linux**
 
