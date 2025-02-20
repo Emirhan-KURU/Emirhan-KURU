@@ -7,9 +7,9 @@
 
 <h3 align="center">A candidate Jr. Embedded software engineer</h3>
 
-- 🔭 I’m currently working on **Robotics,Embedded SW**
+- 🔭 I’m currently working on **Embedded SW,BLDC Motor Control**
 
-- 🌱 I’m currently learning **Microros,C++,C,STM32,Linux**
+- 🌱 I’m currently learning **TI CC1310,C++,C,STM32,Linux**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emirhankuru/" target="blank">
