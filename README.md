@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">A candidate Jr. Embedded software engineer</h3>
+<h3 align="center">Jr. Embedded software engineer</h3>
 
 - 🔭 I’m currently working on **TI CC1310 CC1101, BLDC Motor Control**
 
