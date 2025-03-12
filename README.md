@@ -19,6 +19,10 @@
   </a>
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhankuru&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankuru&show_icons=true&theme=radical)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emirhankuru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emirhankuru&theme=dark&hide_border=false)<br/>
