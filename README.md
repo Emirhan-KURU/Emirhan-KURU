@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **TI CC1310 CC1101, BLDC Motor Control**
 
-- 🌱 I’m currently learning **TI CC1310,CC1101 ,C++,C,STM32,Linux**
+- 🌱 I’m currently learning **TI,C++,C,STM32,Linux**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emirhankuru/" target="blank">
