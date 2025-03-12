@@ -7,14 +7,8 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-           alt="GIF" 
-           width="120" 
-           height="120"/>
-    </td>
-    <td>
-      <h3 align="center">Jr. Embedded Software Engineer</h3>
+    <td align="left" style="vertical-align: middle;">
+      <h3>Jr. Embedded Software Engineer</h3>
       <p>
         <img src="https://komarev.com/ghpvc/?username=emirhankuru&color=blue"/>
       </p>
@@ -28,8 +22,12 @@
         </a>
       </div>
     </td>
+    <td align="right" style="vertical-align: middle;">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF" width="120" height="120"/>
+    </td>
   </tr>
 </table>
+
 
 
 
