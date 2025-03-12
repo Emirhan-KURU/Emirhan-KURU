@@ -7,20 +7,29 @@
 
 
 
-<h3 align="center">Jr. Embedded Software Engineer</h3>
+<table>
+  <tr>
+    <td align="left" style="vertical-align: middle;">
+      <h3>Jr. Embedded Software Engineer</h3>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=emirhankuru&color=blue"/>
+      </p>
+      <ul>
+        <li>🔭 I’m currently working on <strong>TI CC1310 CC1101, BLDC Motor Control</strong></li>
+        <li>🌱 I’m currently learning <strong>TI CC1310, CC1101, C++, C, STM32, Linux</strong></li>
+      </ul>
+      <div align="center">
+        <a href="https://www.linkedin.com/in/emirhankuru/" target="blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </div>
+    </td>
+    <td align="right" style="vertical-align: middle;">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF" width="120" height="120"/>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="width: 50px; height: auto; margin-right: 10px;" />
-  <div>
-    <p>🔭 I’m currently working on <b>TI CC1310 CC1101, BLDC Motor Control</b></p>
-    <p>🌱 I’m currently learning <b>TI CC1310, CC1101, C++, C, STM32, Linux</b></p>
-    <div>
-      <a href="https://www.linkedin.com/in/emirhankuru/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </div>
-  </div>
-</div>
 
 
 
