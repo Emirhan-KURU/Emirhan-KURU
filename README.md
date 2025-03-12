@@ -7,34 +7,17 @@
 
 
 
-<table>
-  <tr>
-    <td align="left" style="vertical-align: middle;">
-      <h3>Jr. Embedded Software Engineer</h3>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=emirhankuru&color=blue"/>
-      </p>
-      <ul>
-        <li>🔭 I’m currently working on <strong>TI CC1310 CC1101, BLDC Motor Control</strong></li>
-        <li>🌱 I’m currently learning <strong>TI CC1310, CC1101, C++, C, STM32, Linux</strong></li>
-      </ul>
-      <div align="center">
-        <a href="https://www.linkedin.com/in/emirhankuru/" target="blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-      </div>
-    </td>
-    <td align="right" style="vertical-align: middle;">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF" width="120" height="120"/>
-    </td>
-  </tr>
-</table>
+<h3 align="center">Jr. Embedded software engineer</h3>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=emirhankuru&color=blue)  
 
+- 🔭 I’m currently working on **TI CC1310 CC1101, BLDC Motor Control**
 
+- 🌱 I’m currently learning **TI CC1310,CC1101 ,C++,C,STM32,Linux**
 
-
-
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/emirhankuru/" target="blank">
+</div>
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhankuru&show_icons=true&theme=tokyonight)
