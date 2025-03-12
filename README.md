@@ -19,6 +19,15 @@
   </a>
 </div>
 
+<div style="text-align: right;">
+    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+         alt="GIF" 
+         width="150" 
+         height="150" 
+         style="display: inline-block;"/>
+</div>
+
+
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emirhankuru&show_icons=true&theme=tokyonight)
