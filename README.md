@@ -9,10 +9,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=emirhankuru&color=blue)  
 
-![](https://github-readme-stats.vercel.app/api?username=emirhankuru&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=emirhankuru&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankuru&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
-
 - 🔭 I’m currently working on **TI CC1310 CC1101, BLDC Motor Control**
 
 - 🌱 I’m currently learning **TI CC1310,CC1101 ,C++,C,STM32,Linux**
