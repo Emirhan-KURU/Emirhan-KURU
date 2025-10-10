@@ -11,7 +11,7 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=emirhankuru&color=blue)  
 
-- 🔭 I’m currently working on **TI CC1310 CC1101, BLDC Motor Control**
+- 🔭 I’m currently working on **Control System, BLDC Motor Control**
 
 - 🌱 I’m currently learning **TI,C++,C,STM32,Linux**
 
