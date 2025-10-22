@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">Jr. Embedded software engineer</h3>
+<h3 align="center">Mechatronics engineer</h3>
   
 ![Profile Views](https://komarev.com/ghpvc/?username=emirhankuru&color=blue)  
 
